@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"N:\\Desktop\\UNREAL\\LAM\\Practice\\LAM\\Source\\LAM\\LAM.Build.cs",
+		"N:\\Desktop\\UNREAL\\LAM\\Practice\\LAM\\Plugins\\UELlama\\Source\\UELlama\\UELlama.Build.cs",
+		"N:\\Desktop\\UNREAL\\LAM\\Practice\\LAM\\Source\\LAM.Target.cs",
+		"N:\\Desktop\\UNREAL\\LAM\\Practice\\LAM\\Source\\LAMEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

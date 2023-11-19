@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LAM",
+			"Path": "N:\\Desktop\\UNREAL\\LAM\\Practice\\LAM\\Source\\LAM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LAMEditor",
+			"Path": "N:\\Desktop\\UNREAL\\LAM\\Practice\\LAM\\Source\\LAMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
